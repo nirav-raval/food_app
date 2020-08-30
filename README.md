@@ -1,4 +1,4 @@
 # food_app working demo
-A new Flutter application. (Static)
+A flutter food application. (Static)
 ![](foodapp.gif)
 
